@@ -1,7 +1,12 @@
 Associative Arrays
 ==================
 
-Starter code for a CSC-207 project on associative arrays.
+Kevin Tang
 
-_Students must replace the contents of this file with appropriate
-contents, including class, author, date, and URL._
+A project for CSC-207 2024Fa.
+
+Build Associative array data structure, and practice with generics/parametric polymorphism.
+
+CITATIONS: 
+
+https://github.com/Departures2023/mp-associative-arrays-maven
